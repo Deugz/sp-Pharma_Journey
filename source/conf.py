@@ -59,30 +59,11 @@ html_static_path = ['_static']
 html_theme_options = {
     "external_links": [
         {
-            "url": "https://deugz.github.io/nb-sbfp/_build/html/intro.html",
-            "name": "&nbsp &nbsp &nbsp &nbsp 💫 Science",
+            "url": "https://deugz.github.io/jb-pharma2/_build/html/intro.html",
+            "name": "&nbsp &nbsp &nbsp &nbsp 💫 Année 2",
             "attributes": {"target": "_blank"},
         },
-        {
-            "url": "https://deugz.github.io/nb-notes/_build/html/intro.html",
-            "name": "&nbsp &nbsp &nbsp 🧠 Education",
-            "attributes": {"target": "_blank"},
-        },
-        {
-            "url": "https://deugz.github.io/nb-publi/_build/html/intro.html",
-            "name": "&nbsp &nbsp &nbsp 🎤 Music ",
-            "attributes": {"target": "_blank"},
-        },
-        {
-            "url": "https://deugz.github.io/nb-teaching/_build/html/intro.html",
-            "name": "&nbsp &nbsp &nbsp 💊 Pharmacie",
-            "attributes": {"target": "_blank"},
-        },
-        {
-            "url": "https://deugz.github.io/nb-blog/_build/html/intro.html",
-            "name": "&nbsp &nbsp &nbsp ✊ Politique",
-            "attributes": {"target": "_blank"},
-        },
+
     ],
     "header_links_before_dropdown": 10,    
     "icon_links": [

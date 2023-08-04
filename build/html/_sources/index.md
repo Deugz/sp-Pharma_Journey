@@ -33,7 +33,7 @@ s0.parentNode.insertBefore(s1,s0);
 <br>
 <br>
 
-:::{image} _static/Title/Encyclopedia-3.png
+:::{image} _static/Title/physio-pharm.svg
 :width: 100%
 :::
 
@@ -42,10 +42,15 @@ s0.parentNode.insertBefore(s1,s0);
 
 <br>
 
+# La pharmacie
+
+<p class="emphase"> Autrement ...</p>
 
 ```{admonition} To Do
 
-- Commencer a travailler pour définir le concept
+- Commencer a travailler pour définir le concept:
+
+Crééer une plateforme sur laquel j'entend digitaliser les cours de pharmacie pour en faire une plateforme d'aide a l'observance
 
 ```
 
