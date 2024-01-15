@@ -16,12 +16,12 @@ Introduction/Roadmap
 :hidden:
 
 Sections/Panorama
-Sections/Science
-Sections/Education
-Sections/Music
-Sections/Pharma
-Sections/Societe
-
+Sections/Universite
+Sections/Pharmagest
+Sections/Officine
+Sections/Recherche
+Sections/Industrie
+Sections/Politique
 
 ```
 

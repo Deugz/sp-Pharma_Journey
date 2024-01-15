@@ -52,20 +52,44 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store", "**.ipynb_checkpoints"]
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'pydata_sphinx_theme'
-html_logo = "_static/Logo/Encyclopedia-logo.png"
-html_favicon = "_static/Logo/Encyclopedia-logo.png"
+html_logo = "_static/Logo/Caducée_lauriers_Couleur.svg"
+html_favicon = "_static/Logo/Caducée_lauriers_Couleur.svg"
 html_static_path = ['_static']
 
 html_theme_options = {
     "external_links": [
         {
-            "url": "https://deugz.github.io/jb-pharma2/_build/html/intro.html",
-            "name": "&nbsp &nbsp &nbsp &nbsp 💫 Année 2",
+            "url": "https://deugz.github.io/sp-Uni-Pharma/build/html/",
+            "name": "&nbsp &nbsp &nbsp &nbsp 🎓 Université",
             "attributes": {"target": "_blank"},
         },
-
+        {
+            "url": "https://deugz.github.io/sp-Equasens/build/html/",
+            "name": "&nbsp &nbsp &nbsp &nbsp 💰 Pharmagest",
+            "attributes": {"target": "_blank"},
+        },
+        {
+            "url": "",
+            "name": "&nbsp &nbsp &nbsp &nbsp 💊 Officine",
+            "attributes": {"target": "_blank"},
+        },
+        {
+            "url": "",
+            "name": "&nbsp &nbsp &nbsp &nbsp ⚙️ Recherche &nbsp &nbsp",
+            "attributes": {"target": "_blank"},
+        },
+        {
+            "url": "",
+            "name": "&nbsp &nbsp &nbsp &nbsp  🏭 Industrie",
+            "attributes": {"target": "_blank"},
+        },
+        {
+            "url": "",
+            "name": "&nbsp &nbsp &nbsp &nbsp 📍 Politique Santé",
+            "attributes": {"target": "_blank"},
+        },
     ],
-    "header_links_before_dropdown": 10,    
+    "header_links_before_dropdown": 5,    
     "icon_links": [
         {
             "name": "GitHub",
@@ -96,9 +120,9 @@ html_theme_options = {
     
 
     "logo": {
-        "text": " &nbsp V. Deguin &nbsp ",
-        "image_dark": "_static/Logo/logo_SFTP.png",
-        "alt_text": " &nbsp V. Deguin &nbsp &nbsp",
+        "text": " &nbsp Pharmacie &nbsp ",
+        "image_dark": "_static/Logo/Caducée_lauriers_Couleur.svg",
+        "alt_text": " &nbsp Pharmacie &nbsp &nbsp",
     },
     
     
