@@ -33,7 +33,7 @@ s0.parentNode.insertBefore(s1,s0);
 <br>
 <br>
 
-:::{image} _static/Title/physio-pharm.svg
+:::{image} _static/Title/la-pharmacie.svg
 :width: 100%
 :::
 
@@ -42,17 +42,34 @@ s0.parentNode.insertBefore(s1,s0);
 
 <br>
 
-# La pharmacie
-
 <p class="emphase"> Autrement ...</p>
 
-```{admonition} To Do
 
-- Commencer a travailler pour définir le concept:
+::::{grid} 2
 
-Crééer une plateforme sur laquel j'entend digitaliser les cours de pharmacie pour en faire une plateforme d'aide a l'observance
+:::{grid-item}
+:columns: 6
+
+
+> Introduction
+
+:::
+
+:::{grid-item}
+:columns: 6
+
+
+```{figure} _static/Images/Guy-downhill-1.jpg
+---
+width: 100%
+name: Guy-downhill-1
+---
 
 ```
+
+:::
+
+::::
 
 
 
